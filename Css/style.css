@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital@1&display=swap');
+*{margin:0;padding:0;}
+div  ul {text-decoration: none; list-style-type: none;}
+.font{font-family: 'Bitter', serif; font-weight: bolder;font-size:15px;
+ background-color: #9eabe4;
+background-image: linear-gradient(315deg, #9eabe4 0%, #77eed8 74%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;}
+.txt{font-family: Roboto;}
+.p{ font-family: 'Lato', sans-serif;
+ font-weight: 300;font-size: 20px; color:gray; font-weight: bolder;}
+.con-text{margin-top:100px;}
+.hero{font-size:50px;font-weight:500px;
+ font-family: 'Prata', serif; transition: ease 2s all;}
+
+ .bgclr{background-color: #9eabe4;
+background-image: linear-gradient(315deg, #9eabe4 0%, #77eed8 74%);
+box-shadow: 2px 2px 2px 2px black;border-radius: 50px;
+)}
+.bg{background-color: #9eabe4;
+background-image: linear-gradient(315deg, #9eabe4 0%, #77eed8 74%);
+border-radius:70px 60px 900px 10px ; box-shadow: 2px 2px 2px 2px black; 
+}
+.imgg{transition: ease 4s all;}
+.navbar-brand{font-size:25px;}
+.wave{ ;height:;
+		  /*border-bottom-left-radius: 50% 20%;*/
+  /*border-bottom-right-radius: 50% 20%;*/
+		box-shadow: 2px 2px 2px 2px black;}
+		#wave{background-image:url("../img/bb.png");background-repeat: no-repeat;background-size: cover;height: 100vh;}
+
+}
+.box{height: 550px ;margin-top: 20px;}
+p{font-family: roboto;}
+.jumbotron{background-color:  #e6e6e6;}
+.card{width:250px; margin-left:20px; transition: ease 2s all; border:none;}
+.card:hover{transform: scale(0.7,0.7);border-bottom: 5px solid darkorange; box-shadow: 2px 2px 2px 2px black; }
+.btn {box-shadow: 2px 2px 2px 2px black; }
+h1, h2,h3,h4,h5 {font-weight: bolder;text-shadow: 2px 1px darkgray;}
+.services{background-color:#f0f5f5;}
+
+.fa{font-size:20px;}
+/*.portfolio .row .col-md-4 img{height:300px;width:300px;}*/
+.call {background-image:url("../img/cta-bg.jpg");width:100%;background-position: center;background-attachment: fixed; }
+.card-title p{font-size: 15px; color:gray;}
+.contact p{font-size: 15px; color:gray;line-height:1;padding-left:30px;}
+.contact-row{background-color: #e6e6e6;}
+
+.contact{ box-shadow: 2px 2px 2px 2px black,width:300px;padding:20px;margin-right:40px;}
+.form{box-shadow: 2px 2px 2px 2px black, }
+#About{margin-top:120px;}
+.footer-links   a {text-decoration: none;list-style-type: none;}
+#Portfolio img:hover{transition: 2s; transform: scale(1.2,1.2);}
+#Portfolio{transition: ease 2s all;}
+.mapouter{position:relative;text-align:right;height:300px;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:100%;}
