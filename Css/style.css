@@ -1,5 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bitter:ital@1&display=swap');
+html{
+	scroll-behavior: smooth;
+}
 *{margin:0;padding:0;}
 div  ul {text-decoration: none; list-style-type: none;}
 .font{font-family: 'Bitter', serif; font-weight: bolder;font-size:15px;
